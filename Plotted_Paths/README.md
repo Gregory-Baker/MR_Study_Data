@@ -1,8 +1,8 @@
 **Key:**
-- Blue: Direct Control, VR Headset
+- Blue:   Direct Control, VR Headset
 - Orange: Waypoint Control, VR Headset
-- Red: Direct Control, Screen
-- Green: Waypoint Control, Screen
+- Red:    Direct Control, Screen
+- Green:  Waypoint Control, Screen
 
 | ID  | Direct Control | Waypoint Control |
 |-----|----------------|------------------|
