@@ -1,4 +1,4 @@
-Key:
+**Key:**
 - Blue: Direct Control, VR Headset
 - Orange: Waypoint Control, VR Headset
 - Red: Direct Control, Screen
